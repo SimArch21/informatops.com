@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+h1, h2, h3 {
+    color: #a30000;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul, ol {
+    margin-top: 0;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+li {
+    margin-bottom: 10px;
+}

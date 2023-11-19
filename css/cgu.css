@@ -1,0 +1,51 @@
+/*.policy-section h2
+{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 15px auto;
+    text-align: justify;
+}*/
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #404040;
+}
+
+.policy-container {
+    width: 80%;
+    max-width: 800px; /* Ajustez la largeur maximale selon vos besoins */
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+    justify-content: center;
+    padding: 40px;
+    border: 1px solid #ccc; /* Ajoutez une bordure si nécessaire */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ajoutez une ombre si nécessaire */
+}
+
+header, footer {
+    width: 100%;
+    background-color: #24262b;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.footer
+{
+    font-size: 36px; /* Ajustez la taille de la police selon vos besoins */
+    width: 100%;
+    background-color: #24262b;
+    color: #fff;
+    padding: 20px 0; /* Ajustez la marge intérieure selon vos besoins */
+}

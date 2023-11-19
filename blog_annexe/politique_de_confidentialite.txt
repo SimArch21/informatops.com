@@ -1,0 +1,73 @@
+Qui sommes-nous ?
+
+Le site web www.informatops.com  est édité par Simon Archambault, immatriculée au registre du commerce et des sociétés d'Evry sous le numéro 899 541 130.
+
+Utilisation des données personnelles collectées
+Commentaires
+
+Quand vous laissez un commentaire sur notre site web, les données inscrites dans le formulaire de commentaire, mais aussi votre adresse IP et l’agent utilisateur de votre navigateur sont collectés pour nous aider à la détection des commentaires indésirables.
+
+Une chaîne anonymisée créée à partir de votre adresse de messagerie (également appelée hash) peut être envoyée au service Gravatar pour vérifier si vous utilisez ce dernier. Les clauses de confidentialité du service Gravatar sont disponibles ici : https://automattic.com/privacy/. Après validation de votre commentaire, votre photo de profil sera visible publiquement à coté de votre commentaire.
+
+Cookies
+
+Certains services personnalisés requièrent que l’utilisateur accepte la pose de cookies. Un cookie ne permet pas d’identifier l’utilisateur. Il enregistre uniquement des informations relatives à la navigation de son terminal (ordinateur, tablette, téléphone) sur le site (pages consultées, etc…) qui pourront être lues lors de visites ultérieures.
+
+La fourniture de ces informations est indispensable pour profiter de certains services. informatops.com respecte la vie privée de ses utilisateurs et se conforme strictement aux lois en vigueur sur la protection de la vie privée et des libertés individuelles. 
+
+Certains services tiers, Google, Facebook, LinkedIn, régies publicitaires déposent un cookie dans le navigateur de l’utilisateur, a des fins de traçage et d’exploitation publicitaire. En refusant les cookies tiers, l’utilisateur empêche ces sites de le suivre. La révocation ou l’ajout de ces cookies peut se faire à tout moment.
+
+ 
+
+Commentaires :
+
+Si vous déposez un commentaire sur notre site, il vous sera proposé d’enregistrer votre nom, adresse de messagerie et site web dans des cookies. C’est uniquement pour votre confort afin de ne pas avoir à saisir ces informations si vous déposez un autre commentaire plus tard. Ces cookies expirent au bout d’une semaine.
+
+Contributeurs :
+
+En modifiant ou en publiant un article, un cookie supplémentaire sera enregistré dans votre navigateur. Ce cookie ne comprend aucune donnée personnelle. Il indique simplement l’identifiant de l’article que vous venez de modifier. Il expire au bout d’un jour.
+
+
+Informatops.com participe et est conforme à l’ensemble des Spécifications et Politiques du Transparency & Consent Framework de l’IAB Europe. informatops.com utilise la Consent Management Platform n°92.
+
+Vous pouvez modifier vos choix à tout moment en cliquant ici.
+Contenu embarqué depuis d’autres sites
+
+Les articles de ce site peuvent inclure des contenus intégrés (par exemple des vidéos, images, articles…). Le contenu intégré depuis d’autres sites se comporte de la même manière que si le visiteur se rendait sur cet autre site.
+
+Informatops.com diffuse des vidéos issues de sa chaîne Youtube et, si les vidéos sont diffusées de façon automatique, se conforme à l’utilisation de l’API Youtube, dont les conditions d’utilisation sont lisibles sur https://developers.google.com/youtube/terms/api-services-terms-of-service-emea-fr. Les conditions générales d’utilisation des services Youtube sont consultables sur https://www.youtube.com/t/terms.
+Youtube étant un service de Google, informatops.comse conforme aux conditions d’utilisation des services de l’entreprise.
+
+Ces sites web pourraient collecter des données sur vous, utiliser des cookies, embarquer des outils de suivis tiers, suivre vos interactions avec ces contenus embarqués si vous disposez d’un compte connecté sur leur site web.
+
+Si vous refusez les cookies tiers depuis le site informatops.com, une partie des fonctionnalités apportées par les sites partenaires de informatops.compourrait ne pas fonctionner.
+
+Dépôt de cookies par Sirdata
+
+Sirdata est une entreprise de data marketing qui permet à ses Clients d’adresser aux Utilisateurs des offres pertinentes adaptées à leurs centres d’intérêt.
+Les Données collectées par Sirdata sont conservées pour une durée maximale de 365 jours, selon la finalité du traitement, conformément aux lois en vigueur et principe de minimisation.
+En savoir plus : https://www.sirdata.com/vie-privee/
+Vous souhaitez désactiver la collecte de vos données par Sirdata : https://www.sirdata.com/opposition/
+Statistiques et mesures d’audience
+
+Le trafic sur le site est mesuré par Google Analytics. Les scripts de mesure enregistrent les pages parcourues, la localisation géographique et les clics effectués sur le site.
+
+ 
+Utilisation et transmission de vos données personnelles
+
+Les données personnelles identifiées comme étant obligatoires au sein du Formulaire sont nécessaires pour bénéficier des fonctionnalités du Site et des Services. Ces données sont conservées dans un fichier déclaré à la CNIL sous le numéro de récépissé n° 2006269.
+
+Elles peuvent être utilisées par informatops.com, conformément aux dispositions légales en vigueur, à des fins de prospection directe pour proposer aux Internautes des produits ou services analogues à ceux pour lesquels l’Internaute s’est inscrit. Au cas où les dispositions légales imposeraient l’accord spécifique de l’Utilisateur pour la communication de données précises, ce dernier pourra, au cours de son inscription, en cliquant sur le bouton correspondant pour le désactiver, refuser de donner son accord. L’accord donné par l’Utilisateur peut également être à tout moment révoqué par l’envoi d’un courrier électronique à l’adresse suivante : info@informatops.com Ces données sont confidentielles. En conséquence, conformément à la loi informatique et libertés du 6 janvier 1978, l’Utilisateur dispose d’un droit d’accès et de rectification des données personnelles le concernant. Il peut exercer ce droit en se connectant à son espace membre (10.12 Ces données sont par ailleurs obligatoirement conservées dans les conditions conformes aux termes du ‘Décret n° 2011-219 du 25 février 2011 relatif à la conservation et à la communication des données permettant d’identifier toute personne ayant contribué à la création d’un contenu mis en ligne.
+Durées de stockage de vos données
+
+Si vous laissez un commentaire, le commentaire et ses métadonnées sont conservés indéfiniment. Cela permet de reconnaître et approuver automatiquement les commentaires suivants au lieu de les laisser dans la file de modération.
+
+Pour les utilisateurs et utilisatrices qui s’enregistrent sur notre site, nous stockons également les données personnelles indiquées dans leur profil. Tous les utilisateurs et utilisatrices peuvent voir, modifier ou supprimer leurs informations personnelles à tout moment (à l’exception de leur nom d’utilisateur·ice). Les gestionnaires du site peuvent aussi voir et modifier ces informations.
+
+Les droits que vous avez sur vos données
+
+Si vous avez un compte ou si vous avez laissé des commentaires sur le site, vous pouvez demander à recevoir un fichier contenant toutes les données personnelles que nous possédons à votre sujet, incluant celles que vous nous avez fournies. Vous pouvez également demander la suppression des données personnelles vous concernant. Cela ne prend pas en compte les données stockées à des fins administratives, légales ou pour des raisons de sécurité.
+
+Transmission de vos données personnelles
+
+Les commentaires des visiteurs peuvent être vérifiés à l’aide d’un service automatisé de détection des commentaires indésirables.
