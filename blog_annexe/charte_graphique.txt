@@ -1,0 +1,4 @@
+Charte Graphique: Informatops
+
+Couleur Footer:
+#24262b
