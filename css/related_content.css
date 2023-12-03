@@ -1,0 +1,21 @@
+.container {}
+
+.related-content {
+    display: grid;
+    flex: 1 1 0;
+    cursor: auto;
+}
+    
+.left-part-related-post {
+    display: flex;
+    align-items: center;
+}
+
+.left-part-related-post picture {
+    flex: 1 1 0;
+}
+
+.left-part-related-post a {
+    box-sizing: border-box;
+    padding-left: 10px;
+}

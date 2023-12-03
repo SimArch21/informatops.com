@@ -281,7 +281,10 @@ th {
     h3,
     p {
         orphans: 3;
-        widows: 3
+        widows: 3;
+        display: flex;
+        text-align: justify;
+        text-justify: inter-word;
     }
 
     h2,
@@ -1596,7 +1599,7 @@ h1 {
 
 .h2,
 h2 {
-    font-size: 30px
+    font-size: 30px;
 }
 
 .h3,
@@ -1620,7 +1623,9 @@ h6 {
 }
 
 p {
-    margin: 0 0 10px
+    margin: 0 0 10px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .lead {
@@ -1773,14 +1778,16 @@ a.bg-danger:hover {
 ol,
 ul {
     margin-top: 0;
-    margin-bottom: 10px
+    margin-bottom: 10px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 ol ol,
 ol ul,
 ul ol,
 ul ul {
-    margin-bottom: 0
+    margin-bottom: 0;
 }
 
 .list-unstyled {
@@ -1976,19 +1983,19 @@ pre code {
 
 @media (min-width:768px) {
     .container {
-        width: 750px
+        width: 750px;
     }
 }
 
 @media (min-width:992px) {
     .container {
-        width: 970px
+        width: 970px;
     }
 }
 
 @media (min-width:1200px) {
     .container {
-        width: 1170px
+        width: 1170px;
     }
 }
 
@@ -1996,12 +2003,12 @@ pre code {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
-    margin-left: auto
+    margin-left: auto;
 }
 
 .row {
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
 }
 
 .col-lg-1,
@@ -3392,7 +3399,7 @@ input[type=search] {
     padding-left: 20px;
     margin-bottom: 0;
     font-weight: 400;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .checkbox input[type=checkbox],
@@ -5178,7 +5185,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     position: fixed;
     right: 0;
     left: 0;
-    z-index: 1030
+    z-index: 1030;
 }
 
 @media (min-width:768px) {
@@ -5202,7 +5209,9 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .navbar-brand {
     float: left;
-    height: 50px;
+    height: 60px;
+    margin-left: -10px;
+    margin-top: -15px;
     padding: 15px 15px;
     font-size: 18px;
     line-height: 20px
@@ -5232,9 +5241,9 @@ textarea.input-group-sm>.input-group-btn>.btn {
     margin-top: 8px;
     margin-right: 15px;
     margin-bottom: 8px;
-    background-color: transparent;
+    /*background-color: transparent;*/
     background-image: none;
-    border: 1px solid transparent;
+    border: 0px solid transparent;
     border-radius: 4px
 }
 
@@ -5846,7 +5855,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 }
 
 .pager li {
-    display: inline
+    display: inline;
 }
 
 .pager li>a,
@@ -7662,7 +7671,7 @@ button.close {
     background-color: #000 \9;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
-    border-radius: 10px
+    border-radius: 10px;
 }
 
 .carousel-indicators .active {
@@ -8072,4 +8081,9 @@ button.close {
     .hidden-print {
         display: none !important
     }
+}
+
+#logo {
+    height: 40px;
+    cursor: pointer;
 }
